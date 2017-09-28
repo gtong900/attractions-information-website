@@ -1,2 +1,2 @@
-# Hello, everyone, this repository is used for storing and displaying some of my work in the past.
+# Hello, everyone: this repository is used for storing and displaying some of my work in the past.
 # About Trath: This is a .NET dynamic data_driven website developed on visual studio which I spent two weeks making in undergraduate year 2. Pretty many functions and details are designed and practiced in this project. I was content and happy to have opportunity to take this project independently although it looks immature at the moment.
