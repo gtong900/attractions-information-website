@@ -2,3 +2,4 @@
 #Cloud Platform: Microsoft Azure
 #Other Tools Used: Visual Studio 2017 Community, Microsoft SQL Server Management Studio, Microsoft Data Migration Assistant, Filezilla, namesilo
 #Website Link: www.winkun.org
+#Notes: some functions doesn't work well after the migration from local environment to cloud and I am tring to fix those
