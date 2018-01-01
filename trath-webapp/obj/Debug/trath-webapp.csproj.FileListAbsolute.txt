@@ -1,0 +1,6 @@
+C:\Users\asus\Desktop\Trath\trath-webapp\bin\trath-webapp.dll.config
+C:\Users\asus\Desktop\Trath\trath-webapp\bin\trath-webapp.dll
+C:\Users\asus\Desktop\Trath\trath-webapp\bin\trath-webapp.pdb
+C:\Users\asus\Desktop\Trath\trath-webapp\obj\Debug\trath-webapp.dll
+C:\Users\asus\Desktop\Trath\trath-webapp\obj\Debug\trath-webapp.pdb
+C:\Users\asus\Desktop\trath\trath-webapp\obj\Debug\trath-webapp.csprojResolveAssemblyReference.cache
