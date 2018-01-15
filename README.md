@@ -13,4 +13,5 @@
 <img width="1193" alt="screen shot 2018-01-15 at 5 37 02 pm" src="https://user-images.githubusercontent.com/23438644/34964267-b9a74d6c-fa1a-11e7-82de-c0fe2994f850.png">
 
 ## Main Page
+click the preview below and get to the full demo on youtube
 [![Demo CountPages alpha](https://j.gifs.com/voD0qV.gif)](https://youtu.be/KKBTAGejry0)
